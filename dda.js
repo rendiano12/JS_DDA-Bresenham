@@ -45,7 +45,7 @@ function dda(x0, x1, y0, y1) {
 }
 
 // Panggil Data
-// dda(2, 8, 1, 5);
+dda(2, 8, 1, 5);
 
 // Define Data
 const dataDDA = [{
